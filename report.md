@@ -15,7 +15,10 @@ I imported the aerofoil model from Level 1 Task 2a into Autodesk CFD and set up 
 ---
 ## Generative Design: 
 I used Fusion 360’s **Generative Design** workspace to create an optimized GE bracket model. Starting with the base geometry, I defined the preserve and obstacle regions, applied the required load cases, and set material constraints. The generative solver automatically explored multiple design iterations, optimizing for strength-to-weight ratio, and I selected the best-performing design for further refinement and export.
-IMAGGES
+![Screenshot 80](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(80).png)](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(80).png)
+
+![Screenshot 79](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(79).png)](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(79).png)
+
 
 ---
 
@@ -30,9 +33,9 @@ G_CODE file
 I started by creating the Lego man and Lego structure in Fusion 360, carefully modeling each brick and component with precise dimensions to ensure an accurate and realistic build. After completing the individual parts, I assembled them into a full structure, applying the correct joints and constraints to make it functional. Using motion studies, I animated the Lego man and structure, simulating assembly and movement to bring the model to life.
 
 Once the motion was verified, I switched to the rendering workspace, where the  Lego figure stands on a narrow cobblestone street flanked by parked cars and tall buildings. The street is illuminated by warm, yellow-toned streetlights, creating a cozy yet urban nighttime atmosphere. The brick textures of the walls and the glistening reflections on the cobblestones add a sense of realism, while the Lego figure provides a playful and contrasting element in the otherwise realistic setting. The angled perspective of the scene enhances depth, making the Lego figure appear as if it’s casually strolling through the busy city street.
-[![Lego Man 2.0](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/lego%20man%202.0.png)
+![Lego Man 2.0](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/lego%20man%202.0.png)
 
-[![Screenshot 76](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(76).png)
+![Screenshot 76](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(76).png)
 
 
 ---
@@ -47,6 +50,7 @@ Once the motion was verified, I switched to the rendering workspace, where the  
 ---
 
 ## Introduction to laser engraving:
+
 
 
 
