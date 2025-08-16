@@ -4,6 +4,7 @@
 
 
 
+
 ## Computational Fluid Dynamics:
 I imported the aerofoil model from Level 1 Task 2a into Autodesk CFD and set up a virtual wind tunnel environment. The inlet air velocity was specified as **28 m/s**, with appropriate boundary conditions and a fine mesh for accuracy. After running the simulation, I extracted the results to determine the **lift force** generated and compiled the findings into the report.
 REPORT LINK
@@ -40,3 +41,4 @@ IMAGES
 ---
 
 ## Introduction to laser engraving:
+
