@@ -15,16 +15,16 @@ I imported the aerofoil model from Level 1 Task 2a into Autodesk CFD and set up 
 ---
 ## Generative Design: 
 I used Fusion 360’s **Generative Design** workspace to create an optimized GE bracket model. Starting with the base geometry, I defined the preserve and obstacle regions, applied the required load cases, and set material constraints. The generative solver automatically explored multiple design iterations, optimizing for strength-to-weight ratio, and I selected the best-performing design for further refinement and export.
-![Screenshot 80](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(80).png)](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(80).png)
+![Screenshot 80](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(80).png)
 
-![Screenshot 79](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(79).png)](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(79).png)
-
+![Screenshot 79](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(79).png)
 
 ---
 
 ## Piston and crankshaft mechanism:
 I began by designing each component of the piston–crankshaft mechanism in **Fusion 360**, starting with the crankshaft, connecting rod, piston, and other necessary parts, ensuring that all dimensions matched realistic engine specifications. Once the individual models were complete, I assembled them within the CAD environment, applying the correct joints and constraints to replicate the actual mechanical motion. I then performed a **motion simulation** to check for smooth operation, verify clearances, and ensure there was no interference between parts. After confirming the design’s functionality, I switched to the **CAM workspace** in Fusion 360, defined the manufacturing setup, selected appropriate machining operations, and generated precise **G-code/NC code** for both the piston and crankshaft, making them ready for CNC manufacturing.
-IMAGEE
+[![Screenshot 81](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(81).png)
+
 G_CODE file
 
 ---
@@ -50,6 +50,7 @@ Once the motion was verified, I switched to the rendering workspace, where the  
 ---
 
 ## Introduction to laser engraving:
+
 
 
 
