@@ -1,13 +1,17 @@
 # MECHANICAL DESIGN:  
 ## Assembly & Stimulation
+I designed a simple two-finger gripper in CAD by first defining the finger geometry and the required jaw opening. The base, fingers, and sliding slots were modeled with precise constraints to ensure smooth movement.After modeling, the parts were virtually assembled in CAD to check alignment and motion. The final assembly was verified using CAD motion simulation to ensure proper gripping action.
 
+![Screenshot 74](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(74).png)](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(74).png)
 
+![Screenshot 75](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(75).png)](https://raw.githubusercontent.com/NiranjanaReddy/Level-3/main/Screenshot%20(75).png)
 
-
+---
 
 ## Computational Fluid Dynamics:
 I imported the aerofoil model from Level 1 Task 2a into Autodesk CFD and set up a virtual wind tunnel environment. The inlet air velocity was specified as **28 m/s**, with appropriate boundary conditions and a fine mesh for accuracy. After running the simulation, I extracted the results to determine the **lift force** generated and compiled the findings into the report.
-REPORT LINK
+[Report](https://docs.google.com/document/d/192QFbz3CnMR3P46qC3MYmyR9oZYGCJq2/edit)
+
 
 ---
 ## Generative Design: 
@@ -41,4 +45,5 @@ IMAGES
 ---
 
 ## Introduction to laser engraving:
+
 
